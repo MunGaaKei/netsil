@@ -10,4 +10,5 @@
 
 ## 下载
 
-- macOS：下载 [netsil.app](./release/netsil.app)（解压后拖到“应用程序”即可）
+- macOS：下载 [netsil-mac.dmg](./release/netsil-mac.dmg)（解压后拖到“应用程序”即可）
+- Windows：下载 [netsil-win.msi](./release/netsil-win.msi)（双击安装即可）
