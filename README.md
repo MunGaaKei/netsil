@@ -12,3 +12,8 @@
 
 - macOS：下载 [netsil-mac.dmg](./release/netsil-mac.dmg)（解压后拖到“应用程序”即可）
 - Windows：下载 [netsil-win.msi](./release/netsil-win.msi)（双击安装即可）
+
+## 安全性
+
+- macOS：苹果菜单 → 系统设置 → 隐私与安全性 → 往下滚到“安全性”区域 → 点“仍要打开 / Open Anyway”
+- Windows：双击安装包，点“信任”
