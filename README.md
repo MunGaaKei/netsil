@@ -4,14 +4,25 @@
 
 ## 截图
 
-![](./screenshot/1.png)
-![](./screenshot/2.png)
-![](./screenshot/3.png)
+<div align="center">
+  <img src="./screenshot/1.png" alt="网易云搜索" width="600" />
+</div>
+<h5 align="center">网易云搜索</h5>
+
+<div align="center">
+  <img src="./screenshot/2.png" alt="QQ音乐搜索" width="600" />
+</div>
+<h5 align="center">QQ音乐搜索</h5>
+
+<div align="center">
+  <img src="./screenshot/3.png" alt="歌曲播放页" width="600" />
+</div>
+<h5 align="center">歌曲播放页</h5>
 
 ## 下载
 
-- macOS：下载 [netsil-mac.dmg](./release/netsil-mac.dmg)（解压后拖到“应用程序”即可）
-- Windows：下载 [netsil-win.msi](./release/netsil-win.msi)（双击安装即可）
+- macOS：下载 [netsil-mac.dmg](./release/netsil-mac.dmg?raw=1)（解压后拖到“应用程序”即可）
+- Windows：下载 [netsil-win.msi](./release/netsil-win.msi?raw=1)（双击安装即可）
 
 ## 安全性
 
